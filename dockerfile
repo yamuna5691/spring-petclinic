@@ -1,4 +1,4 @@
-FROM centos:6.9
+
 
 FROM alpine/git as clone
 WORKDIR /app
